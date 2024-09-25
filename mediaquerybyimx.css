@@ -1,0 +1,19 @@
+@media (min-width: 320px) and (max-width: 480px) { /* ini buat ukuran hp */
+   
+}
+
+@media (min-width: 481px) and (max-width: 768px) { /* ini buat ukuran ipad/tablet */
+   
+}
+
+@media (min-width: 769px) and (max-width: 1024px) { /* ini buat ukuran laptop ukuran sedengan */
+   
+}
+
+@media (min-width: 1025px) and (max-width: 1200px) { /* ini buat ukuran laptop ukuran gede */
+   
+}
+
+@media (min-width: 1201px) and (max-width: ++px) { /* ini buat ukuran display/monitor gede banget */
+   
+}
